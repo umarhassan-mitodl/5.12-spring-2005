@@ -6,8 +6,6 @@ description: 'This resource includes the following topics:
 file: /courses/5-12-organic-chemistry-i-spring-2005/fd8fcae1a7235edea3221e5a9a426334_organometal.pdf
 file_size: 66491
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

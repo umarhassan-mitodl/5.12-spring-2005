@@ -4,8 +4,6 @@ description: This resource contains the solutions of 14 questions asked in exam 
 file: /courses/5-12-organic-chemistry-i-spring-2005/c1d12e5c5ca19340135dd629d8ebb423_exam1_key.pdf
 file_size: 208589
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

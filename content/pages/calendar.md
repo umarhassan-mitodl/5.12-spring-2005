@@ -2,8 +2,6 @@
 content_type: page
 description: Calendar section contains information on course schedule along with problem
   sets due dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

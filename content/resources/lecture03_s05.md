@@ -6,8 +6,6 @@ description: 'This resource includes the folowing topics:
 file: /courses/5-12-organic-chemistry-i-spring-2005/7c424727deee608bbdfee09a83824a02_lecture03_s05.pdf
 file_size: 559763
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

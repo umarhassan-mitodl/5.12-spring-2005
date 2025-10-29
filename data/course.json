@@ -24,7 +24,6 @@
     "website": "5-12-organic-chemistry-i-spring-2005"
   },
   "course_title": "Organic Chemistry I",
-  "hide_download": true,
   "course_description": "This subject deals primarily with the basic principles to understand the structure and reactivity of organic molecules. Emphasis is on substitution and elimination reactions and chemistry of the carbonyl group. The course also provides an introduction to the chemistry of aromatic compounds.\n",
   "department_numbers": [
     "5"
@@ -35,7 +34,6 @@
     "content": "3bb621f4-5538-fe0a-8f16-c7c9cf42a3c9",
     "website": "5-12-organic-chemistry-i-spring-2005"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions"

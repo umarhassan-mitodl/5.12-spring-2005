@@ -2,8 +2,6 @@
 content_type: page
 description: Lecture handouts section contains handouts for topics covered in the
   course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

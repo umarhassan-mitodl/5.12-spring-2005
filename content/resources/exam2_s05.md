@@ -4,8 +4,6 @@ description: This resource contains 12 questions based on carbocations.
 file: /courses/5-12-organic-chemistry-i-spring-2005/3218354ddc5ddfbf669532028221aeb8_exam2_s05.pdf
 file_size: 107003
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

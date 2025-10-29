@@ -5,8 +5,6 @@ description: This resource contains the solutions of 13 problems asked in proble
 file: /courses/5-12-organic-chemistry-i-spring-2005/112889af94be24b601821c462d40fa56_pset2_key.pdf
 file_size: 150160
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

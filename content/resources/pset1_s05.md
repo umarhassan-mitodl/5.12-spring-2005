@@ -4,8 +4,6 @@ description: This resource contains 16 problems based on lone pairs.
 file: /courses/5-12-organic-chemistry-i-spring-2005/e8a1b4847e36fba4be9e7d6fde58d23f_pset1_s05.pdf
 file_size: 187748
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

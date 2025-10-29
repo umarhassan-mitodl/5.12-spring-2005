@@ -4,8 +4,6 @@ description: This resource includes the fundamentals of conformational analysis.
 file: /courses/5-12-organic-chemistry-i-spring-2005/fb2906c68da8fd8b86fa369ae98ca5a7_conform_analysis.pdf
 file_size: 76179
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

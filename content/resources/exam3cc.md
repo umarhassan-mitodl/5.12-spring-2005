@@ -5,8 +5,6 @@ description: This resource contains 12 questions based on stereochemistry, drawi
 file: /courses/5-12-organic-chemistry-i-spring-2005/d0fa51f43436d97b957516518d042683_exam3cc.pdf
 file_size: 159555
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource contains 14 questions based on molecule structure.
 file: /courses/5-12-organic-chemistry-i-spring-2005/745ea00a96604c69350751ad548e1652_exam1_s05.pdf
 file_size: 244863
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
